@@ -52,17 +52,17 @@ Key Research Questions addressed after modifying initially identified questions:
 Key visuals created using both queries:
 - **Line Chart:** Yearly trends of breaches and affected individuals (using `InformationType_Summary`).
 - **Stacked Column Chart:** Frequency of each compromised information type (using `InformationType_Detail`).
+- **Bar char:** Top 10 Compromised information types over the years from 2016 to present
 - **Heatmap:** Relationship between industry and breach cause.
 
 ---
 
 ## Deliverables
-- Queries:
-  - `InformationType_Summary.csv`
-  - `InformationType_Detail.csv`
-  - Query_steps_executed.md
+- Query_steps_executed.md : Detailed steps on Queries performed in Power Query
+- Informationtype_Aggregate_Cleandata.xlsx 
+- Inforationtype_Specific_Cleandata.xlsx
 - Power BI Model (`PowerBI_Second_Deliverable.pbix`)
-- Visual Previews (`/Visuals_Preview`)
+- Visuals.md
 
 ---
 

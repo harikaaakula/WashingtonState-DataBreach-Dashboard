@@ -28,7 +28,7 @@ This phase focuses on identifying current phenomena or events, selecting a datas
 
 ## Deliverables
 - `Phase1_Report.pdf`
-- `Dataset_Details.csv`
+- `Data_Breach_Notifications_Affecting_Washington_Residents.csv`
 
 ---
 

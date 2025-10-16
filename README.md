@@ -64,7 +64,7 @@ The goal is to provide actionable insights for the **Washington Attorney General
 ##  Key Insights
 1. **Ransomware** and **Malware** cyberattack types are the most common attacks observed over a period of 2016 to 2026.
 2. The **Business and Health** industries show the highest vulnerability.
-3. **Breach lifecycles** exceeding 200 days correlate with significantly larger impacts.
+3. **Retail** Business type with in the Business Industry are the most predominently getting attacked from 2016 to 2026
 4. Clear upward trend in reported incidents post-2019, suggesting increased regulatory reporting compliance.
 
 ---

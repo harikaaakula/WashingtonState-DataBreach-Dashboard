@@ -4,7 +4,17 @@
 
 ## Project Overview
 This Power BI project analyzes **Data Breaches affecting Washington residents** between 2016 to 2026. It was developed as a three-phase coursework project focusing on data storytelling, Exploratory Data Analysis, and Dashboard Design.  
-The goal is to provide actionable insights for the **Washington Attorney General’s Office** and Cybersecurity Professionals to better understand Data Breach trends, industry vulnerabilities, and risk management patterns.
+The goal is to provide actionable insights for the **Washington Attorney General’s Office** and Cybersecurity Professionals to better understand Data Breach trends, industry vulnerabilities, and risk management patterns. 
+
+---
+
+### Note on Year Column
+
+Some records in the dataset are marked as **2026**, even though the calendar year has not fully occurred.  
+This is because the **year represents the period in which a data breach notice is submitted to the Attorney General’s Office (AGO)**.  
+
+As per the law requiring notice to the AGO, a year starts on **July 24** and ends on **July 23** of the following year.  
+For example, a notice submitted on July 23, 2020 would be marked as a "2020" breach, while a notice submitted on July 24, 2020 would be marked as a "2021" breach.
 
 ---
 
@@ -64,7 +74,7 @@ The goal is to provide actionable insights for the **Washington Attorney General
 ##  Key Insights
 1. **Ransomware** and **Malware** cyberattack types are the most common attacks observed over a period of 2016 to 2026.
 2. The **Business and Health** industries show the highest vulnerability.
-3. **Retail** Business type with in the Business Industry are the most predominently getting attacked from 2016 to 2026
+3. **Retail businesses within the Business industry** were the most frequently targeted in data breaches from 2016 to 2026
 4. Clear upward trend in reported incidents post-2019, suggesting increased regulatory reporting compliance.
 
 ---

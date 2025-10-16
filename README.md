@@ -8,7 +8,7 @@ The goal is to provide actionable insights for the **Washington Attorney General
 
 ---
 
-### Note on Year Column
+### Note on Year Column in the dataset
 
 Some records in the dataset are marked as **2026**, even though the calendar year has not fully occurred.  
 This is because the **year represents the period in which a data breach notice is submitted to the Attorney General’s Office (AGO)**.  
